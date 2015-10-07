@@ -1,0 +1,12 @@
+{
+  "name": "ZhihuSpider",
+  "version": "1.0.0",
+  "description": "知乎模拟登陆",
+  "main": "index.js",
+  "author": "xianda",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-request": "^1.0.0"
+  }
+}
