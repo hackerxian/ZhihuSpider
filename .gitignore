@@ -3,4 +3,5 @@ node_modules/
 cookie.txt
 index.test.js
 test.js
+app.js
 index.html
